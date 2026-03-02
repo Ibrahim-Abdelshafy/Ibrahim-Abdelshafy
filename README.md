@@ -1,8 +1,14 @@
 # Ibrahim Abdelshafy
 
 🎓 Computer Science Student (Year 1)  
-💻 Building skills in Python, Automation & Web Development  
-🎯 Working toward freelance income in 2026  
+💻 Currently focused on:
+- HTML
+- CSS
+- JavaScript
+- Building interactive web projects
+
+🎯 Goal:
+Develop real-world web applications and transition into freelance web development.
 
 ---
 
